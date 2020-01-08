@@ -8,7 +8,7 @@ gulp.task('image', function () {
     .pipe(gulp.dest('./dist/images'));
 });
 
-gulp.task('minify', function () {
+gulp.task('jsonminify', function () {
   return gulp.src('./data/**')
     .pipe(jsonminify())
     .pipe(gulp.dest('./data/compress'));

@@ -7,11 +7,11 @@
       "tools": [
         {
           "name": "HTML5",
-          "figure": "https://raw.githubusercontent.com/thalysonalexr/portfolio-files/master/dest/skills/html5.png"
+          "figure": "https://raw.githubusercontent.com/thalysonalexr/portfolio-files/master/dist/images/skills/html5.png"
         },
         {
           "name": "Twig",
-          "figure": "https://raw.githubusercontent.com/thalysonalexr/portfolio-files/master/dest/skills/twig.png"
+          "figure": "https://raw.githubusercontent.com/thalysonalexr/portfolio-files/master/dist/images/skills/twig.png"
         }
       ]
     },
@@ -20,15 +20,15 @@
       "tools": [
         {
           "name": "CSS3",
-          "figure": "https://raw.githubusercontent.com/thalysonalexr/portfolio-files/master/dest/skills/css3.png"
+          "figure": "https://raw.githubusercontent.com/thalysonalexr/portfolio-files/master/dist/images/skills/css3.png"
         },
         {
           "name": "Bootstrap",
-          "figure": "https://raw.githubusercontent.com/thalysonalexr/portfolio-files/master/dest/skills/bootstrap.png"
+          "figure": "https://raw.githubusercontent.com/thalysonalexr/portfolio-files/master/dist/images/skills/bootstrap.png"
         },
         {
           "name": "Materialize",
-          "figure": "https://raw.githubusercontent.com/thalysonalexr/portfolio-files/master/dest/skills/materialize.png"
+          "figure": "https://raw.githubusercontent.com/thalysonalexr/portfolio-files/master/dist/images/skills/materialize.png"
         }
       ]
     },
@@ -37,19 +37,19 @@
       "tools": [
         {
           "name": "JavaScript",
-          "figure": "https://raw.githubusercontent.com/thalysonalexr/portfolio-files/master/dest/skills/js.png"
+          "figure": "https://raw.githubusercontent.com/thalysonalexr/portfolio-files/master/dist/images/skills/js.png"
         },
         {
           "name": "Vue.Js",
-          "figure": "https://raw.githubusercontent.com/thalysonalexr/portfolio-files/master/dest/skills/vue.png"
+          "figure": "https://raw.githubusercontent.com/thalysonalexr/portfolio-files/master/dist/images/skills/vue.png"
         },
         {
           "name": "JQuery",
-          "figure": "https://raw.githubusercontent.com/thalysonalexr/portfolio-files/master/dest/skills/jquery.png"
+          "figure": "https://raw.githubusercontent.com/thalysonalexr/portfolio-files/master/dist/images/skills/jquery.png"
         },
         {
           "name": "ECMAScript 6",
-          "figure": "https://raw.githubusercontent.com/thalysonalexr/portfolio-files/master/dest/skills/es6.png"
+          "figure": "https://raw.githubusercontent.com/thalysonalexr/portfolio-files/master/dist/images/skills/es6.png"
         }
       ]
     },
@@ -58,23 +58,23 @@
       "tools": [
         {
           "name": "PHP",
-          "figure": "https://raw.githubusercontent.com/thalysonalexr/portfolio-files/master/dest/skills/php7.png"
+          "figure": "https://raw.githubusercontent.com/thalysonalexr/portfolio-files/master/dist/images/skills/php7.png"
         },
         {
           "name": "Python",
-          "figure": "https://raw.githubusercontent.com/thalysonalexr/portfolio-files/master/dest/skills/python.png"
+          "figure": "https://raw.githubusercontent.com/thalysonalexr/portfolio-files/master/dist/images/skills/python.png"
         },
         {
           "name": "MySQL",
-          "figure": "https://raw.githubusercontent.com/thalysonalexr/portfolio-files/master/dest/skills/mysql.png"
+          "figure": "https://raw.githubusercontent.com/thalysonalexr/portfolio-files/master/dist/images/skills/mysql.png"
         },
         {
           "name": "Delphi",
-          "figure": "https://raw.githubusercontent.com/thalysonalexr/portfolio-files/master/dest/skills/delphi.png"
+          "figure": "https://raw.githubusercontent.com/thalysonalexr/portfolio-files/master/dist/images/skills/delphi.png"
         },
         {
           "name": "Oracle XE",
-          "figure": "https://raw.githubusercontent.com/thalysonalexr/portfolio-files/master/dest/skills/oraclexe.png"
+          "figure": "https://raw.githubusercontent.com/thalysonalexr/portfolio-files/master/dist/images/skills/oraclexe.png"
         }
       ]
     },
@@ -83,31 +83,31 @@
       "tools": [
         {
           "name": "Paypal Checkout",
-          "figure": "https://raw.githubusercontent.com/thalysonalexr/portfolio-files/master/dest/skills/paypal.png"
+          "figure": "https://raw.githubusercontent.com/thalysonalexr/portfolio-files/master/dist/images/skills/paypal.png"
         },
         {
           "name": "Mercado Pago",
-          "figure": "https://raw.githubusercontent.com/thalysonalexr/portfolio-files/master/dest/skills/mp.png"
+          "figure": "https://raw.githubusercontent.com/thalysonalexr/portfolio-files/master/dist/images/skills/mp.png"
         },
         {
           "name": "PagSeguro Checkout",
-          "figure": "https://raw.githubusercontent.com/thalysonalexr/portfolio-files/master/dest/skills/pagseguro.png"
+          "figure": "https://raw.githubusercontent.com/thalysonalexr/portfolio-files/master/dist/images/skills/pagseguro.png"
         },
         {
           "name": "Google Maps",
-          "figure": "https://raw.githubusercontent.com/thalysonalexr/portfolio-files/master/dest/skills/maps.png"
+          "figure": "https://raw.githubusercontent.com/thalysonalexr/portfolio-files/master/dist/images/skills/maps.png"
         },
         {
           "name": "Google Analytics",
-          "figure": "https://raw.githubusercontent.com/thalysonalexr/portfolio-files/master/dest/skills/analytics.png"
+          "figure": "https://raw.githubusercontent.com/thalysonalexr/portfolio-files/master/dist/images/skills/analytics.png"
         },
         {
           "name": "Oauth2 Facebook",
-          "figure": "https://raw.githubusercontent.com/thalysonalexr/portfolio-files/master/dest/skills/ofb.png"
+          "figure": "https://raw.githubusercontent.com/thalysonalexr/portfolio-files/master/dist/images/skills/ofb.png"
         },
         {
           "name": "Oauth2 Google",
-          "figure": "https://raw.githubusercontent.com/thalysonalexr/portfolio-files/master/dest/skills/ogoogle.png"
+          "figure": "https://raw.githubusercontent.com/thalysonalexr/portfolio-files/master/dist/images/skills/ogoogle.png"
         }
       ]
     },
@@ -116,27 +116,27 @@
       "tools": [
         {
           "name": "Git",
-          "figure": "https://raw.githubusercontent.com/thalysonalexr/portfolio-files/master/dest/skills/git.png"
+          "figure": "https://raw.githubusercontent.com/thalysonalexr/portfolio-files/master/dist/images/skills/git.png"
         },
         {
           "name": "GitLab",
-          "figure": "https://raw.githubusercontent.com/thalysonalexr/portfolio-files/master/dest/skills/gitlab.png"
+          "figure": "https://raw.githubusercontent.com/thalysonalexr/portfolio-files/master/dist/images/skills/gitlab.png"
         },
         {
           "name": "GitHub",
-          "figure": "https://raw.githubusercontent.com/thalysonalexr/portfolio-files/master/dest/skills/github.png"
+          "figure": "https://raw.githubusercontent.com/thalysonalexr/portfolio-files/master/dist/images/skills/github.png"
         },
         {
           "name": "Nginx",
-          "figure": "https://raw.githubusercontent.com/thalysonalexr/portfolio-files/master/dest/skills/nginx.png"
+          "figure": "https://raw.githubusercontent.com/thalysonalexr/portfolio-files/master/dist/images/skills/nginx.png"
         },
         {
           "name": "Docker",
-          "figure": "https://raw.githubusercontent.com/thalysonalexr/portfolio-files/master/dest/skills/docker.png"
+          "figure": "https://raw.githubusercontent.com/thalysonalexr/portfolio-files/master/dist/images/skills/docker.png"
         },
         {
           "name": "Linux",
-          "figure": "https://raw.githubusercontent.com/thalysonalexr/portfolio-files/master/dest/skills/gnu.png"
+          "figure": "https://raw.githubusercontent.com/thalysonalexr/portfolio-files/master/dist/images/skills/gnu.png"
         }
       ]
     }
