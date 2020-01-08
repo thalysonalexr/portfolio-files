@@ -1,0 +1,121 @@
+{
+  "title": "Projects",
+  "apresentation": "This is a list of projects developed by me that range from study applications to freelance work.",
+  "all": [
+    {
+      "figure": "https://raw.githubusercontent.com/thalysonalexr/portfolio-files/master/dest/projects/photospace.png",
+      "thumb": "",
+      "link": "https://thalysonalexr.github.io/photospace/",
+      "source": "https://github.com/thalysonalexr/photospace",
+      "description": "Project developed during the Bachelor in SI. The purpose of this is to be a functional frontend template for photo editor websites.",
+      "title": "Photospace",
+      "spec": [
+        { "description": "Developed with JQuery" },
+        { "description": "CSS3 Stylized" },
+        { "description": "Uses HTML5 tags" },
+        { "description": "Font Awesome as icons" }
+      ]
+    },
+    {
+      "figure": "https://raw.githubusercontent.com/thalysonalexr/portfolio-files/master/dest/projects/portfolio.png",
+      "thumb": "",
+      "link": "https://thalysonalexr.github.io/portfolio/",
+      "source": "https://github.com/thalysonalexr/portfolio",
+      "description": "Web Developer Project Portfolio Template. Emphasizes simplicity and objectivity.",
+      "title": "portforlio.me",
+      "spec": [
+        { "description": "Uses lib Materialize" },
+        { "description": "Developed with Vue.js" },
+        { "description": "Font Awesome as icons" },
+        { "description": "Using Vuex to Manage State" }
+      ]
+    },
+    {
+      "figure": "https://raw.githubusercontent.com/thalysonalexr/portfolio-files/master/dest/projects/criarcurriculo.png",
+      "thumb": "",
+      "link": "https://gitlab.com/thalysonrodss/curriculum.io",
+      "source": "https://gitlab.com/thalysonrodss/curriculum.io",
+      "description": "Resume generator website in PDF. Project carried out for client by Workana platform.",
+      "title": "criarcurriculo.net",
+      "spec": [
+        { "description": "Uses Bootstrap" },
+        { "description": "Consume PHP PDF Generator API" },
+        { "description": "Authentication through JWT" },
+        { "description": "Developed with Vue.js" }
+      ]
+    },
+    {
+      "figure": "https://raw.githubusercontent.com/thalysonalexr/portfolio-files/master/dest/projects/freestylesheets.png",
+      "thumb": "",
+      "link": "https://github.com/thalysonalexr/freestylesheets",
+      "source": "https://github.com/thalysonalexr/freestylesheets",
+      "description": "REST API for managing Cascading Style Sheets (CSS) data. Inspired by Google Fonts API.",
+      "title": "Freestylesheets API",
+      "spec": [
+        { "description": "Uses Zend Expressive Skeleton" },
+        { "description": "100% PHP API" },
+        { "description": "JSON, XML, HTML, and text/css responses" },
+        { "description": "Consumes PSR-15 Middlewares" },
+        { "description": "Development with Docker and Docker-compose" },
+        { "description": "MySQL Database" }
+      ]
+    },
+    {
+      "figure": "https://raw.githubusercontent.com/thalysonalexr/portfolio-files/master/dest/projects/cadtreesa.gif",
+      "thumb": "",
+      "link": "https://github.com/thalysonalexr/cadtreesa",
+      "source": "https://github.com/thalysonalexr/cadtreesa",
+      "description": "Project with the proposal to map trees of the Campus of UFR/MT. In the project was developed Website and an Application (Android).",
+      "title": "Cadtreesa Project",
+      "spec": [
+        { "description": "Android application in Delphi" },
+        { "description": "Website created in PHP, HTML5, CSS3, JS" },
+        { "description": "Uses libs JQuery and Bootstrap" },
+        { "description": "Data Storage with MySQL" },
+        { "description": "Google Maps API Integration" }
+      ]
+    },
+    {
+      "figure": "https://raw.githubusercontent.com/thalysonalexr/portfolio-files/master/dest/projects/stikers.png",
+      "thumb": "",
+      "link": "https://gitlab.com/thalysonrodss/swap-cards",
+      "source": "https://gitlab.com/thalysonrodss/swap-cards",
+      "description": "Website to exchange stickers between friends. Project carried out for client by Workana platform.",
+      "title": "Stikers",
+      "spec": [
+        { "description": "Uses Bootstrap" },
+        { "description": "Integrate Analytics component" },
+        { "description": "Developed with JQuery" },
+        { "description": "Desenvolvido com Vue.js" }
+      ]
+    },
+    {
+      "figure": "https://raw.githubusercontent.com/thalysonalexr/portfolio-files/master/dest/projects/star-rate-component.gif",
+      "thumb": "",
+      "link": "https://www.npmjs.com/package/star-rate-component",
+      "source": "https://github.com/thalysonalexr/star-rate-component",
+      "description": "Star rating component for applications built with the Vue.js Framework.",
+      "title": "Star Rate Component",
+      "spec": [
+        { "description": "Developed with Vue.Js" },
+        { "description": "Uses of JQuery" },
+        { "description": "Component for Vue.js" },
+        { "description": "Exported to NPM" }
+      ]
+    },
+    {
+      "figure": "https://raw.githubusercontent.com/thalysonalexr/portfolio-files/master/dest/projects/tic-tac-toe.png",
+      "thumb": "",
+      "link": "https://github.com/thalysonalexr/tic-tac-toe",
+      "source": "https://github.com/thalysonalexr/tic-tac-toe",
+      "description": "Mini game Tic Tac Toe written in Python with native Tkinter interface.",
+      "title": "Tic-Tac-Toe",
+      "spec": [
+        { "description": "Developed with Python 3.6.3" },
+        { "description": "Data Storage with Sqlite3" },
+        { "description": "Native interface with lib Tkinter" },
+        { "description": "MiniMax (vs IA) Algorithm Implementation" }
+      ]
+    }
+  ]
+}
