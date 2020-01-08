@@ -32,6 +32,11 @@
       "type": "E-mail",
       "link": "mailto:thalysonrodrigues.dev@gmail.com",
       "class": "far fa-envelope"
+    },
+    {
+      "type": "Whatsapp",
+      "link": "5567998553364",
+      "class": "far fa-whatsapp"
     }
   ]
 }
