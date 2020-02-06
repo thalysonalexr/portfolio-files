@@ -50,6 +50,10 @@
         {
           "name": "ECMAScript 6",
           "figure": "https://raw.githubusercontent.com/thalysonalexr/portfolio-files/master/dist/images/skills/es6.png"
+        },
+        {
+          "name": "Node JS",
+          "figure": "https://raw.githubusercontent.com/thalysonalexr/portfolio-files/master/dist/images/skills/nodejs.png"
         }
       ]
     },
@@ -61,12 +65,20 @@
           "figure": "https://raw.githubusercontent.com/thalysonalexr/portfolio-files/master/dist/images/skills/php7.png"
         },
         {
+          "name": "Expressive",
+          "figure": "https://raw.githubusercontent.com/thalysonalexr/portfolio-files/master/dist/images/skills/zend.png"
+        },
+        {
           "name": "Python",
           "figure": "https://raw.githubusercontent.com/thalysonalexr/portfolio-files/master/dist/images/skills/python.png"
         },
         {
           "name": "MySQL",
           "figure": "https://raw.githubusercontent.com/thalysonalexr/portfolio-files/master/dist/images/skills/mysql.png"
+        },
+        {
+          "name": "Mongo DB",
+          "figure": "https://raw.githubusercontent.com/thalysonalexr/portfolio-files/master/dist/images/skills/mongo.png"
         },
         {
           "name": "Delphi",

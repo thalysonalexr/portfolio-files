@@ -35,7 +35,7 @@
     },
     {
       "type": "Whatsapp",
-      "link": "5567998553364",
+      "link": "http://api.whatsapp.com/send?1=pt_BR&phone=67998553364&text=Ol%C3%A1%20Thalyson!%20Tenho%20um%20projeto%20em%20mente!",
       "class": "fab fa-whatsapp"
     }
   ]
