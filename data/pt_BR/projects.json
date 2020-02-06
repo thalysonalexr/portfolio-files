@@ -7,7 +7,7 @@
       "thumb": "",
       "link": "https://thalysonalexr.github.io/photospace/",
       "source": "https://github.com/thalysonalexr/photospace",
-      "description": "Projeto desenvolvido durante o Bacharel em SI. A proposta dist/imagese é ser um template funcional frontend para websites editores de fotos.",
+      "description": "Projeto desenvolvido durante o Bacharel em SI. A proposta deste é ser um template funcional frontend para websites editores de fotos.",
       "title": "Photospace",
       "spec": [
         { "description": "Desenvolvido com JQuery" },
