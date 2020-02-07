@@ -31,6 +31,32 @@
       ]
     },
     {
+      "figure": "https://raw.githubusercontent.com/thalysonalexr/portfolio-files/master/dist/images/projects/twidev.png",
+      "thumb": "",
+      "link": "http://frontend-twidev.herokuapp.com",
+      "source": "https://github.com/thalysonalexr/twidev-frontend",
+      "description": "Mini Twiiter para Desenvolvedores do Github. Projeto criado para estudar NodeJS com WSS por meio da lib Socket.io.",
+      "title": "Twidev",
+      "spec": [
+        { "description": "Backend com NodeJS" },
+        { "description": "Frontend com VueJS" },
+        { "description": "Socket.io" },
+        { "description": "Mongo DB" }
+      ]
+    },
+    {
+      "figure": "https://raw.githubusercontent.com/thalysonalexr/portfolio-files/master/dist/images/projects/charts.png",
+      "thumb": "",
+      "link": "#",
+      "source": "https://www.chartjs.org/",
+      "description": "Criação de gráficos com Chart.JS.",
+      "title": "Twidev",
+      "spec": [
+        { "description": "Lib Chart.JS" },
+        { "description": "Integração com Vue.js." }
+      ]
+    },
+    {
       "figure": "https://raw.githubusercontent.com/thalysonalexr/portfolio-files/master/dist/images/projects/criarcurriculo.png",
       "thumb": "",
       "link": "https://gitlab.com/thalysonrodss/curriculum.io",
