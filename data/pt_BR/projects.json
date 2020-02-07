@@ -22,7 +22,7 @@
       "link": "https://thalysonalexr.github.io/portfolio/",
       "source": "https://github.com/thalysonalexr/portfolio",
       "description": "Template para Portfolio de projetos de Desenvolvedor Web. Tem ênfase na simplicidade e objetividade.",
-      "title": "portforlio.me",
+      "title": "portfolio.me",
       "spec": [
         { "description": "Utiliza lib Materialize" },
         { "description": "Desenvolvido com Vue.js" },
@@ -50,7 +50,7 @@
       "link": "#",
       "source": "https://www.chartjs.org/",
       "description": "Criação de gráficos com Chart.JS.",
-      "title": "Twidev",
+      "title": "Gráficos",
       "spec": [
         { "description": "Lib Chart.JS" },
         { "description": "Integração com Vue.js." }
