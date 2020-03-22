@@ -4,7 +4,8 @@
   "description": "Repositorio criado para armazenar imagens do meu portfolio.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build:all": "gulp jsonminify && gulp image && git add --all && git commit -m \"update\" && git push -u origin master"
   },
   "repository": {
     "type": "git",
