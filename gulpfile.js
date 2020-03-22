@@ -9,7 +9,7 @@ gulp.task('image', () => {
 });
 
 gulp.task('jsonminify', () => {
-  return gulp.src('./data/**')
+  return gulp.src(['./data/**/*.json', '!data/compress/**'])
     .pipe(jsonminify())
     .pipe(gulp.dest('./data/compress'));
 });

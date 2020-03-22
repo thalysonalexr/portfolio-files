@@ -54,6 +54,10 @@
         {
           "name": "Node JS",
           "figure": "https://raw.githubusercontent.com/thalysonalexr/portfolio-files/master/dist/images/skills/nodejs.png"
+        },
+        {
+          "name": "TypeScript",
+          "figure": "https://raw.githubusercontent.com/thalysonalexr/portfolio-files/master/dist/images/skills/typescript.png"
         }
       ]
     },
