@@ -1,7 +1,7 @@
 {
-  "name": "screenshot-projects",
+  "name": "portfolio-files",
   "version": "1.0.0",
-  "description": "Repositorio criado para armazenar imagens do meu portfolio.",
+  "description": "Repositorio criado para armazenar imagens e dados do meu portfolio.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/thalysonalexr/screenshot-projects.git"
+    "url": "git+https://github.com/thalysonalexr/portfolio-files.git"
   },
   "author": "Thalyson Rodrigues <thalysonrodrigues.dev@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/thalysonalexr/screenshot-projects/issues"
+    "url": "https://github.com/thalysonalexr/portfolio-files/issues"
   },
-  "homepage": "https://github.com/thalysonalexr/screenshot-projects#readme",
+  "homepage": "https://github.com/thalysonalexr/portfolio-files#readme",
   "devDependencies": {
     "gulp": "^4.0.2",
     "gulp-image": "^6.0.0",

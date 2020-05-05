@@ -3,6 +3,35 @@
   "apresentation": "This is a list of projects developed by me that range from study applications to freelance work.",
   "all": [
     {
+      "figure": "https://raw.githubusercontent.com/thalysonalexr/portfolio-files/master/dist/images/projects/jls.gif",
+      "thumb": "",
+      "link": "https://thalysonalexr.github.io/jls-api/",
+      "source": "https://github.com/thalysonalexr/jls-api",
+      "description": "Jointly Logistics Service. Project developed by team 20 for the Vtex challenge in Megahack 2nd edition 2020.",
+      "title": "Jointly Logistics Service",
+      "spec": [
+        { "description": "Hosted on Heroku Cloud" },
+        { "description": "Uses MongoDB Atlas" },
+        { "description": "NodeJS API with Express" },
+        { "description": "Infra dev with Docker" },
+        { "description": "Web interface with Angular" }
+      ]
+    },
+    {
+      "figure": "https://raw.githubusercontent.com/thalysonalexr/portfolio-files/master/dist/images/projects/bethehero.png",
+      "thumb": "",
+      "link": "https://github.com/thalysonalexr/be-the-hero",
+      "source": "https://github.com/thalysonalexr/be-the-hero",
+      "description": "Project developed during the week Omnistack 11.0 by Rocketseat.",
+      "title": "Be the Hero",
+      "spec": [
+        { "description": "API with NodeJS and Knex" },
+        { "description": "Mobile with React Native" },
+        { "description": "Web with ReactJS" },
+        { "description": "Infra with Docker" }
+      ]
+    },
+    {
       "figure": "https://raw.githubusercontent.com/thalysonalexr/portfolio-files/master/dist/images/projects/photospace.png",
       "thumb": "",
       "link": "https://thalysonalexr.github.io/photospace/",
@@ -91,7 +120,7 @@
       "thumb": "",
       "link": "https://github.com/thalysonalexr/cadtreesa",
       "source": "https://github.com/thalysonalexr/cadtreesa",
-      "description": "Project with the proposal to map trees of the Campus of UFR/MT. In the project was developed Website and an Application (Android).",
+      "description": "Project with the proposal to map trees of the Campus of UFMT/CUR. In the project was developed Website and an Application (Android).",
       "title": "Cadtreesa Project",
       "spec": [
         { "description": "Android application in Delphi" },

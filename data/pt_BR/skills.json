@@ -3,7 +3,7 @@
   "apresentation": "",
   "all": [
     {
-      "group": "HTML",
+      "group": "Frontend",
       "tools": [
         {
           "name": "HTML5",
@@ -12,12 +12,7 @@
         {
           "name": "Twig",
           "figure": "https://raw.githubusercontent.com/thalysonalexr/portfolio-files/master/dist/images/skills/twig.png"
-        }
-      ]
-    },
-    {
-      "group": "CSS",
-      "tools": [
+        },
         {
           "name": "CSS3",
           "figure": "https://raw.githubusercontent.com/thalysonalexr/portfolio-files/master/dist/images/skills/css3.png"
@@ -40,33 +35,29 @@
           "figure": "https://raw.githubusercontent.com/thalysonalexr/portfolio-files/master/dist/images/skills/js.png"
         },
         {
-          "name": "Vue.Js",
-          "figure": "https://raw.githubusercontent.com/thalysonalexr/portfolio-files/master/dist/images/skills/vue.png"
-        },
-        {
-          "name": "JQuery",
-          "figure": "https://raw.githubusercontent.com/thalysonalexr/portfolio-files/master/dist/images/skills/jquery.png"
+          "name": "TypeScript",
+          "figure": "https://raw.githubusercontent.com/thalysonalexr/portfolio-files/master/dist/images/skills/typescript.png"
         },
         {
           "name": "ECMAScript 6",
           "figure": "https://raw.githubusercontent.com/thalysonalexr/portfolio-files/master/dist/images/skills/es6.png"
         },
         {
-          "name": "Node JS",
-          "figure": "https://raw.githubusercontent.com/thalysonalexr/portfolio-files/master/dist/images/skills/nodejs.png"
-        },
-        {
-          "name": "TypeScript",
-          "figure": "https://raw.githubusercontent.com/thalysonalexr/portfolio-files/master/dist/images/skills/typescript.png"
+          "name": "Vue.Js",
+          "figure": "https://raw.githubusercontent.com/thalysonalexr/portfolio-files/master/dist/images/skills/vue.png"
         }
       ]
     },
     {
-      "group": "Back-End",
+      "group": "Backend",
       "tools": [
         {
           "name": "PHP",
           "figure": "https://raw.githubusercontent.com/thalysonalexr/portfolio-files/master/dist/images/skills/php7.png"
+        },
+        {
+          "name": "Node JS",
+          "figure": "https://raw.githubusercontent.com/thalysonalexr/portfolio-files/master/dist/images/skills/nodejs.png"
         },
         {
           "name": "Expressive",
@@ -83,19 +74,11 @@
         {
           "name": "Mongo DB",
           "figure": "https://raw.githubusercontent.com/thalysonalexr/portfolio-files/master/dist/images/skills/mongo.png"
-        },
-        {
-          "name": "Delphi",
-          "figure": "https://raw.githubusercontent.com/thalysonalexr/portfolio-files/master/dist/images/skills/delphi.png"
-        },
-        {
-          "name": "Oracle XE",
-          "figure": "https://raw.githubusercontent.com/thalysonalexr/portfolio-files/master/dist/images/skills/oraclexe.png"
         }
       ]
     },
     {
-      "group": "Integração de API's",
+      "group": "Integração de API's e serviços",
       "tools": [
         {
           "name": "Paypal Checkout",
