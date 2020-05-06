@@ -7,8 +7,8 @@
       "thumb": "",
       "link": "https://thalysonalexr.github.io/jls-api/",
       "source": "https://github.com/thalysonalexr/jls-api",
-      "description": "Jointly Logistics Service. Projeto desenvolvido pelo time 20 para o desafio Vtex no Megahack 2ª edição 2020.",
-      "title": "Jointly Logistics Service",
+      "description": "Jointly Logistics Service foi desenvolvido pelo time 20 para o desafio Vtex no Megahack 2ª edição.",
+      "title": "JLS",
       "spec": [
         { "description": "Hospedado em Heroku Cloud" },
         { "description": "Utiliza MongoDB Atlas" },
