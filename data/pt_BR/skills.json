@@ -78,7 +78,7 @@
       ]
     },
     {
-      "group": "API Integrations",
+      "group": "Integrações de API's",
       "tools": [
         {
           "name": "Paypal Checkout",
@@ -111,7 +111,7 @@
       ]
     },
     {
-      "group": "Others",
+      "group": "Outros",
       "tools": [
         {
           "name": "Git",
