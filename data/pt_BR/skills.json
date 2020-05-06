@@ -53,7 +53,7 @@
       ]
     },
     {
-      "group": "Back-End",
+      "group": "Backend",
       "tools": [
         {
           "name": "PHP",
