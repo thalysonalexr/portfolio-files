@@ -108,17 +108,6 @@
     ]
   },
   {
-    "title": "Gráficos",
-    "description": "Criação de gráficos com Chart.JS.",
-    "link": "#",
-    "source": "https://www.chartjs.org/",
-    "thumbnail": "https://raw.githubusercontent.com/thalysonalexr/portfolio-files/master/dist/images/projects/charts.png",
-    "specs": [
-      "Lib Chart.JS",
-      "Integração com Vue.js."
-    ]
-  },
-  {
     "title": "criarcurriculo.net",
     "description": "Website gerador de Currículos em PDF. Projeto realizado para cliente pela plataforma Workana.",
     "link": "https://gitlab.com/thalysonrodss/curriculum.io",
