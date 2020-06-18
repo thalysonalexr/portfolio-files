@@ -3,7 +3,6 @@
     {
       "title": "Ecoleta",
       "description": "Projeto realizado durante a semana da Next Level Week by @Rocketseat.",
-      "link": "https://github.com/thalysonalexr/ecoleta",
       "source": "https://github.com/thalysonalexr/ecoleta",
       "thumbnail": "https://raw.githubusercontent.com/thalysonalexr/portfolio-files/master/dist/images/projects/ecoleta.png",
       "topics": [
@@ -18,7 +17,6 @@
     {
       "title": "BMG GUIA",
       "description": "BMG GUIA é um app que foi desenvolvido como solução para o desafio do Hackaton BMG Transforma 2020.",
-      "link": "https://github.com/thalysonalexr/bmg-guia-app",
       "source": "https://github.com/thalysonalexr/bmg-guia-app",
       "thumbnail": "https://raw.githubusercontent.com/thalysonalexr/portfolio-files/master/dist/images/projects/bmg-guia.jpg",
       "topics": [
@@ -31,7 +29,6 @@
     {
       "title": "Seu Café",
       "description": "Projeto desenvolvido para estudar ReactJS, React Native, TypeScript e DDD.",
-      "link": "https://github.com/thalysonalexr/ycoffee-web",
       "source": "https://github.com/thalysonalexr/ycoffee-web",
       "thumbnail": "https://raw.githubusercontent.com/thalysonalexr/portfolio-files/master/dist/images/projects/ycoffee.png",
       "topics": [
@@ -46,7 +43,7 @@
     {
       "title": "JLS",
       "description": "Jointly Logistics Service foi desenvolvido pelo time 20 para o desafio Vtex no Megahack 2ª edição.",
-      "link": "https://thalysonalexr.github.io/jls-api/",
+      "link": "https://jls-api.herokuapp.com/v1",
       "source": "https://github.com/thalysonalexr/jls-api",
       "thumbnail": "https://raw.githubusercontent.com/thalysonalexr/portfolio-files/master/dist/images/projects/jls.png",
       "topics": [
@@ -60,7 +57,6 @@
     {
       "title": "Be the Hero",
       "description": "Projeto desenvolvido durante a semana Omnistack 11.0 by @Rocketseat.",
-      "link": "https://github.com/thalysonalexr/be-the-hero",
       "source": "https://github.com/thalysonalexr/be-the-hero",
       "thumbnail": "https://raw.githubusercontent.com/thalysonalexr/portfolio-files/master/dist/images/projects/bethehero.png",
       "topics": [
@@ -113,7 +109,6 @@
     {
       "title": "criarcurriculo.net",
       "description": "Website gerador de Currículos em PDF. Projeto realizado para cliente pela plataforma Workana.",
-      "link": "https://gitlab.com/thalysonalexr/curriculum.io",
       "source": "https://gitlab.com/thalysonalexr/curriculum.io",
       "thumbnail": "https://raw.githubusercontent.com/thalysonalexr/portfolio-files/master/dist/images/projects/criarcurriculo.gif",
       "topics": [
@@ -126,7 +121,6 @@
     {
       "title": "Freestylesheets API",
       "description": "REST API com proposta de gerenciar dados de Folhas de Estilo Cascata (CSS). Inspirado em Google Fonts API.",
-      "link": "https://github.com/thalysonalexr/freestylesheets",
       "source": "https://github.com/thalysonalexr/freestylesheets",
       "thumbnail": "https://raw.githubusercontent.com/thalysonalexr/portfolio-files/master/dist/images/projects/freestylesheets.png",
       "topics": [
@@ -140,7 +134,6 @@
     {
       "title": "Cadtreesa",
       "description": "Projeto com a proposta de mapear árvores do Campus da UFMT/CUR. No projeto foi desenvolvido um Website e um Aplicativo (Android).",
-      "link": "https://github.com/thalysonalexr/cadtreesa",
       "source": "https://github.com/thalysonalexr/cadtreesa",
       "thumbnail": "https://raw.githubusercontent.com/thalysonalexr/portfolio-files/master/dist/images/projects/cadtreesa.gif",
       "topics": [
@@ -154,7 +147,6 @@
     {
       "title": "Stikers",
       "description": "Website para troca de Figurinhas entre amigos. Projeto realizado para cliente pela plataforma Workana.",
-      "link": "https://gitlab.com/thalysonalexr/swap-cards",
       "source": "https://gitlab.com/thalysonalexr/swap-cards",
       "thumbnail": "https://raw.githubusercontent.com/thalysonalexr/portfolio-files/master/dist/images/projects/stikers.png",
       "topics": [
@@ -180,7 +172,6 @@
     {
       "title": "Jogo da velha",
       "description": "Mini game Jogo da Velha escrito em Python com interface nativa Tkinter.",
-      "link": "https://github.com/thalysonalexr/tic-tac-toe",
       "source": "https://github.com/thalysonalexr/tic-tac-toe",
       "thumbnail": "https://raw.githubusercontent.com/thalysonalexr/portfolio-files/master/dist/images/projects/tic-tac-toe.png",
       "topics": [

@@ -1,191 +1,185 @@
-[
-  {
-    "title": "Ecoleta",
-    "description": "Projeto realizado durante a semana da Next Level Week by @Rocketseat.",
-    "link": "https://github.com/thalysonalexr/ecoleta",
-    "source": "https://github.com/thalysonalexr/ecoleta",
-    "thumbnail": "https://raw.githubusercontent.com/thalysonalexr/portfolio-files/master/dist/images/projects/ecoleta.png",
-    "specs": [
-      "Protótipo com Figma",
-      "Infraestrutura com Docker e Docker Compose",
-      "API com NodeJS, TypeORM, Postgres e Jest",
-      "Aplicação Web com ReactJS",
-      "Aplicativo Mobile com React Native/Expo",
-      "Projeto full TypeScript"
-    ]
-  },
-  {
-    "title": "BMG GUIA",
-    "description": "BMG GUIA é um app que foi desenvolvido como solução para o desafio do Hackaton BMG Transforma 2020.",
-    "link": "https://github.com/thalysonalexr/bmg-guia-app",
-    "source": "https://github.com/thalysonalexr/bmg-guia-app",
-    "thumbnail": "https://raw.githubusercontent.com/thalysonalexr/portfolio-files/master/dist/images/projects/bmg-guia.jpg",
-    "specs": [
-      "Protótipo com Figma",
-      "Aplicativo Mobile com React Native/Expo",
-      "Projeto TypeScript"
-    ]
-  },
-  {
-    "title": "Seu Café",
-    "description": "Projeto desenvolvido para estudar ReactJS, React Native, TypeScript e DDD.",
-    "link": "https://github.com/thalysonalexr/ycoffee-web",
-    "source": "https://github.com/thalysonalexr/ycoffee-web",
-    "thumbnail": "https://raw.githubusercontent.com/thalysonalexr/portfolio-files/master/dist/images/projects/ycoffee.png",
-    "specs": [
-      "Protótipo com Figma",
-      "Infraestrutura com Docker e Docker Compose",
-      "API com NodeJS, MongoDB, Jest e metologias de TDD e DDD",
-      "Aplicação Web com ReactJS",
-      "Aplicativo Mobile com React Native/Expo",
-      "Projeto full TypeScript"
-    ]
-  },
-  {
-    "title": "JLS",
-    "description": "Jointly Logistics Service foi desenvolvido pelo time 20 para o desafio Vtex no Megahack 2ª edição.",
-    "link": "https://thalysonalexr.github.io/jls-api/",
-    "source": "https://github.com/thalysonalexr/jls-api",
-    "thumbnail": "https://raw.githubusercontent.com/thalysonalexr/portfolio-files/master/dist/images/projects/jls.png",
-    "specs": [
-      "Hospedado em Heroku Cloud",
-      "Utiliza MongoDB Atlas",
-      "API em NodeJS com Express",
-      "Infra dev com Docker",
-      "Aplicação web com Angular"
-    ]
-  },
-  {
-    "title": "Be the Hero",
-    "description": "Projeto desenvolvido durante a semana Omnistack 11.0 by @Rocketseat.",
-    "link": "https://github.com/thalysonalexr/be-the-hero",
-    "source": "https://github.com/thalysonalexr/be-the-hero",
-    "thumbnail": "https://raw.githubusercontent.com/thalysonalexr/portfolio-files/master/dist/images/projects/bethehero.png",
-    "specs": [
-      "API com NodeJS e Knex",
-      "Mobile com React Native",
-      "Web com ReactJS",
-      "Infra com Docker"
-    ]
-  },
-  {
-    "title": "Photospace",
-    "description": "Projeto desenvolvido durante o Bacharel em SI. A proposta deste é ser um template funcional frontend para websites editores de fotos.",
-    "link": "https://thalysonalexr.github.io/photospace/",
-    "source": "https://github.com/thalysonalexr/photospace",
-    "thumbnail": "https://raw.githubusercontent.com/thalysonalexr/portfolio-files/master/dist/images/projects/photospace.png",
-    "specs": [
-      "Desenvolvido com JQuery",
-      "Estilizado com CSS3",
-      "Utiliza tags HTML5",
-      "Font Awesome como ícones"
-    ]
-  },
-  {
-    "title": "portfolio.me",
-    "description": "Template para Portfolio de projetos de Desenvolvedor Web. Tem ênfase na simplicidade e objetividade.",
-    "link": "https://thalysonalexr.github.io/portfolio/",
-    "source": "https://github.com/thalysonalexr/portfolio",
-    "thumbnail": "https://raw.githubusercontent.com/thalysonalexr/portfolio-files/master/dist/images/projects/portfolio.png",
-    "specs": [
-      "Utiliza lib Materialize",
-      "Desenvolvido com Vue.js",
-      "Font Awesome como ícones",
-      "Uso de Vuex para gerenciar estado"
-    ]
-  },
-  {
-    "title": "Twidev",
-    "description": "Mini Twiiter para Desenvolvedores do Github. Projeto criado para estudar NodeJS com WSS por meio da lib Socket.io.",
-    "link": "https://frontend-twidev.herokuapp.com",
-    "source": "https://github.com/thalysonalexr/twidev-frontend",
-    "thumbnail": "https://raw.githubusercontent.com/thalysonalexr/portfolio-files/master/dist/images/projects/twidev.gif",
-    "specs": [
-      "Backend com NodeJS",
-      "Frontend com VueJS",
-      "Socket.io",
-      "Mongo DB"
-    ]
-  },
-  {
-    "title": "criarcurriculo.net",
-    "description": "Website gerador de Currículos em PDF. Projeto realizado para cliente pela plataforma Workana.",
-    "link": "https://gitlab.com/thalysonalexr/curriculum.io",
-    "source": "https://gitlab.com/thalysonalexr/curriculum.io",
-    "thumbnail": "https://raw.githubusercontent.com/thalysonalexr/portfolio-files/master/dist/images/projects/criarcurriculo.gif",
-    "specs": [
-      "Utiliza Bootstrap",
-      "Consome API PHP geradora de PDF",
-      "Autenticação através de JWT",
-      "Desenvolvido com Vue.js"
-    ]
-  },
-  {
-    "title": "Freestylesheets API",
-    "description": "REST API com proposta de gerenciar dados de Folhas de Estilo Cascata (CSS). Inspirado em Google Fonts API.",
-    "link": "https://github.com/thalysonalexr/freestylesheets",
-    "source": "https://github.com/thalysonalexr/freestylesheets",
-    "thumbnail": "https://raw.githubusercontent.com/thalysonalexr/portfolio-files/master/dist/images/projects/freestylesheets.png",
-    "specs": [
-      "Usa Zend Expressive Skeleton",
-      "API 100% PHP",
-      "Respostas JSON, XML, HTML e text/css",
-      "Consome Middlewares PSR-15",
-      "Desenvolvimento com Docker e Docker-compose",
-      "Base de Dados MySQL"
-    ]
-  },
-  {
-    "title": "Cadtreesa Project",
-    "description": "Projeto com a proposta de mapear árvores do Campus da UFMT/CUR. No projeto foi desenvolvido Website e um Aplicativo (Android).",
-    "link": "https://github.com/thalysonalexr/cadtreesa",
-    "source": "https://github.com/thalysonalexr/cadtreesa",
-    "thumbnail": "https://raw.githubusercontent.com/thalysonalexr/portfolio-files/master/dist/images/projects/cadtreesa.gif",
-    "specs": [
-      "Aplicativo Android em Delphi",
-      "Site criado em PHP, HTML5, CSS3, JS",
-      "Utiliza as libs JQuery e Bootstrap",
-      "Armazenamento de dados com MySQL",
-      "Integração com Google Maps API"
-    ]
-  },
-  {
-    "title": "Stikers",
-    "description": "Website para troca de Figurinhas entre amigos. Projeto realizado para cliente pela plataforma Workana.",
-    "link": "https://gitlab.com/thalysonalexr/swap-cards",
-    "source": "https://gitlab.com/thalysonalexr/swap-cards",
-    "thumbnail": "https://raw.githubusercontent.com/thalysonalexr/portfolio-files/master/dist/images/projects/stikers.png",
-    "specs": [
-      "Utiliza Bootstrap",
-      "Integra componente do Analytics",
-      "Desenvolvido com JQuery",
-      "Desenvolvido com Vue.js"
-    ]
-  },
-  {
-    "title": "Star Rate",
-    "description": "Componente de avaliação por estrelas para aplicações construídas com o Framework Vue.js.",
-    "link": "https://www.npmjs.com/package/star-rate-component",
-    "source": "https://github.com/thalysonalexr/star-rate-component",
-    "thumbnail": "https://raw.githubusercontent.com/thalysonalexr/portfolio-files/master/dist/images/projects/star-rate-component.gif",
-    "specs": [
-      "Desenvolvido com Vue.Js",
-      "Faz uso de JQuery",
-      "Componente para Vue.js",
-      "Exportado para NPM"
-    ]
-  },
-  {
-    "title": "Jogo da velha",
-    "description": "Mini game Jogo da Velha escrito em Python com interface nativa Tkinter.",
-    "link": "https://github.com/thalysonalexr/tic-tac-toe",
-    "source": "https://github.com/thalysonalexr/tic-tac-toe",
-    "thumbnail": "https://raw.githubusercontent.com/thalysonalexr/portfolio-files/master/dist/images/projects/tic-tac-toe.png",
-    "specs": [
-      "Desenvolvido com Python 3.6.3",
-      "Armazenamento de dados com Sqlite3",
-      "Interface nativa com a lib Tkinter",
-      "Implementação do Algoritmo MiniMax (vs IA)"
-    ]
-  }
-]
+{
+  "projects": [
+    {
+      "title": "Ecoleta",
+      "description": "Projeto realizado durante a semana da Next Level Week by @Rocketseat.",
+      "source": "https://github.com/thalysonalexr/ecoleta",
+      "thumbnail": "https://raw.githubusercontent.com/thalysonalexr/portfolio-files/master/dist/images/projects/ecoleta.png",
+      "topics": [
+        "Prototipado com Figma",
+        "Infraestrutura de containers com Docker",
+        "API em NodeJS com TypeORM, Postgres e Jest",
+        "SPA com ReactJS",
+        "Aplicativo Mobile com React Native/Expo",
+        "Projeto full TypeScript"
+      ]
+    },
+    {
+      "title": "BMG GUIA",
+      "description": "BMG GUIA é um app que foi desenvolvido como solução para o desafio do Hackaton BMG Transforma 2020.",
+      "source": "https://github.com/thalysonalexr/bmg-guia-app",
+      "thumbnail": "https://raw.githubusercontent.com/thalysonalexr/portfolio-files/master/dist/images/projects/bmg-guia.jpg",
+      "topics": [
+        "Prototipado com Figma",
+        "Aplicativo Mobile com React Native/Expo",
+        "Projeto TypeScript",
+        "Hackaton BMG Transforma"
+      ]
+    },
+    {
+      "title": "Seu Café",
+      "description": "Projeto desenvolvido para estudar ReactJS, React Native, TypeScript e DDD.",
+      "source": "https://github.com/thalysonalexr/ycoffee-web",
+      "thumbnail": "https://raw.githubusercontent.com/thalysonalexr/portfolio-files/master/dist/images/projects/ycoffee.png",
+      "topics": [
+        "Prototipado com Figma",
+        "Infraestrutura de containers com Docker",
+        "API em NodeJS com MongoDB, Jest e metologias de TDD/DDD",
+        "SPA com ReactJS",
+        "Aplicativo Mobile com React Native/Expo",
+        "Projeto full TypeScript"
+      ]
+    },
+    {
+      "title": "JLS",
+      "description": "Jointly Logistics Service foi desenvolvido pelo time 20 para o desafio Vtex no Megahack 2ª edição.",
+      "link": "https://jls-api.herokuapp.com/v1",
+      "source": "https://github.com/thalysonalexr/jls-api",
+      "thumbnail": "https://raw.githubusercontent.com/thalysonalexr/portfolio-files/master/dist/images/projects/jls.png",
+      "topics": [
+        "Hospedado em Heroku Cloud",
+        "Utiliza MongoDB Atlas",
+        "API em NodeJS com Express",
+        "Infraestrutura de containers com Docker",
+        "SPA com Angular"
+      ]
+    },
+    {
+      "title": "Be the Hero",
+      "description": "Projeto desenvolvido durante a semana Omnistack 11.0 by @Rocketseat.",
+      "source": "https://github.com/thalysonalexr/be-the-hero",
+      "thumbnail": "https://raw.githubusercontent.com/thalysonalexr/portfolio-files/master/dist/images/projects/bethehero.png",
+      "topics": [
+        "API em NodeJS com Express e Knex",
+        "Mobile com React Native",
+        "SPA com ReactJS",
+        "Infraestrutura de containers com Docker"
+      ]
+    },
+    {
+      "title": "Photospace",
+      "description": "Projeto desenvolvido durante o Bacharel em SI. A proposta deste é ser um template funcional frontend para websites editores de fotos.",
+      "link": "https://thalysonalexr.github.io/photospace/",
+      "source": "https://github.com/thalysonalexr/photospace",
+      "thumbnail": "https://raw.githubusercontent.com/thalysonalexr/portfolio-files/master/dist/images/projects/photospace.png",
+      "topics": [
+        "Utiliza biblioteca JQuery",
+        "Estilizado com CSS3",
+        "Faz uso de tags do HTML5",
+        "Pacote de ícones Font Awesome"
+      ]
+    },
+    {
+      "title": "portfolio.me",
+      "description": "Template para Portfolio de projetos de Desenvolvedor Web. Tem ênfase na simplicidade e objetividade.",
+      "link": "https://thalysonalexr.github.io/portfolio/",
+      "source": "https://github.com/thalysonalexr/portfolio",
+      "thumbnail": "https://raw.githubusercontent.com/thalysonalexr/portfolio-files/master/dist/images/projects/portfolio.png",
+      "topics": [
+        "Utiliza a biblioteca Materialize",
+        "SPA com Vue.js",
+        "Vuex para gerenciamento de estado",
+        "Pacote de ícones Font Awesome"
+      ]
+    },
+    {
+      "title": "Twidev",
+      "description": "Mini Twiiter para Desenvolvedores do Github. Projeto criado para estudar NodeJS com WSS por meio da lib Socket.io.",
+      "link": "https://frontend-twidev.herokuapp.com",
+      "source": "https://github.com/thalysonalexr/twidev-frontend",
+      "thumbnail": "https://raw.githubusercontent.com/thalysonalexr/portfolio-files/master/dist/images/projects/twidev.gif",
+      "topics": [
+        "API em NodeJS com Express",
+        "SPA com Vue.js",
+        "Uso da biblioteca socket.io",
+        "Mongo DB Atlas como solução noSQL",
+        "Hospedagem em Heroku Cloud"
+      ]
+    },
+    {
+      "title": "criarcurriculo.net",
+      "description": "Website gerador de Currículos em PDF. Projeto realizado para cliente pela plataforma Workana.",
+      "source": "https://gitlab.com/thalysonalexr/curriculum.io",
+      "thumbnail": "https://raw.githubusercontent.com/thalysonalexr/portfolio-files/master/dist/images/projects/criarcurriculo.gif",
+      "topics": [
+        "SPA com Vue.js",
+        "Utiliza a biblioteca Bootstrap",
+        "Consome serviço (API) para transformar em PDF",
+        "Autenticação Oauth JWT"
+      ]
+    },
+    {
+      "title": "Freestylesheets API",
+      "description": "REST API com proposta de gerenciar dados de Folhas de Estilo Cascata (CSS). Inspirado em Google Fonts API.",
+      "source": "https://github.com/thalysonalexr/freestylesheets",
+      "thumbnail": "https://raw.githubusercontent.com/thalysonalexr/portfolio-files/master/dist/images/projects/freestylesheets.png",
+      "topics": [
+        "Utiliza Zend Expressive Skeleton",
+        "Respostas JSON, XML, HTML e text/css",
+        "Consome Middlewares PSR-15",
+        "Infraestrutura de containers com Docker",
+        "SGBD MySQL"
+      ]
+    },
+    {
+      "title": "Cadtreesa",
+      "description": "Projeto com a proposta de mapear árvores do Campus da UFMT/CUR. No projeto foi desenvolvido um Website e um Aplicativo (Android).",
+      "source": "https://github.com/thalysonalexr/cadtreesa",
+      "thumbnail": "https://raw.githubusercontent.com/thalysonalexr/portfolio-files/master/dist/images/projects/cadtreesa.gif",
+      "topics": [
+        "Aplicativo Mobile em Delphi",
+        "Website em PHP, HTML5, CSS3 e JS",
+        "Utiliza as bibliotecas JQuery e Bootstrap",
+        "SGBD MySQL",
+        "Integração com Google Maps API"
+      ]
+    },
+    {
+      "title": "Stikers",
+      "description": "Website para troca de Figurinhas entre amigos. Projeto realizado para cliente pela plataforma Workana.",
+      "source": "https://gitlab.com/thalysonalexr/swap-cards",
+      "thumbnail": "https://raw.githubusercontent.com/thalysonalexr/portfolio-files/master/dist/images/projects/stikers.png",
+      "topics": [
+        "SPA com Vue.js",
+        "Utiliza a biblioteca Bootstrap",
+        "Integração com Analytics",
+        "Desenvolvido com JQuery"
+      ]
+    },
+    {
+      "title": "Star Rate",
+      "description": "Componente de avaliação por estrelas para aplicações construídas com o Framework Vue.js.",
+      "link": "https://www.npmjs.com/package/star-rate-component",
+      "source": "https://github.com/thalysonalexr/star-rate-component",
+      "thumbnail": "https://raw.githubusercontent.com/thalysonalexr/portfolio-files/master/dist/images/projects/star-rate-component.gif",
+      "topics": [
+        "SPA com Vue.js",
+        "Utiliza a biblioteca JQuery",
+        "Componente para o framework Vue.js",
+        "Pacote de componente"
+      ]
+    },
+    {
+      "title": "Jogo da velha",
+      "description": "Mini game Jogo da Velha escrito em Python com interface nativa Tkinter.",
+      "source": "https://github.com/thalysonalexr/tic-tac-toe",
+      "thumbnail": "https://raw.githubusercontent.com/thalysonalexr/portfolio-files/master/dist/images/projects/tic-tac-toe.png",
+      "topics": [
+        "Desenvolvido com Python 3.6.3",
+        "Armazenamento de dados com Sqlite3",
+        "Interface nativa com a biblioteca Tkinter",
+        "Implementação do Algoritmo MiniMax (vs IA)"
+      ]
+    }
+  ]
+}
