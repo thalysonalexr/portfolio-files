@@ -1,7 +1,7 @@
 [
   {
     "title": "Ecoleta",
-    "description": "Projeto realizado durante a semana da Next Level Week by @Rocketseat",
+    "description": "Projeto realizado durante a semana da Next Level Week by @Rocketseat.",
     "link": "https://github.com/thalysonalexr/ecoleta",
     "source": "https://github.com/thalysonalexr/ecoleta",
     "thumbnail": "https://raw.githubusercontent.com/thalysonalexr/portfolio-files/master/dist/images/projects/ecoleta.png",
@@ -16,7 +16,7 @@
   },
   {
     "title": "BMG GUIA",
-    "description": "BMG GUIA é um app que foi desenvolvido como solução para o desafio do Hackaton BMG Transforma 2020",
+    "description": "BMG GUIA é um app que foi desenvolvido como solução para o desafio do Hackaton BMG Transforma 2020.",
     "link": "https://github.com/thalysonalexr/bmg-guia-app",
     "source": "https://github.com/thalysonalexr/bmg-guia-app",
     "thumbnail": "https://raw.githubusercontent.com/thalysonalexr/portfolio-files/master/dist/images/projects/bmg-guia.jpg",
@@ -28,7 +28,7 @@
   },
   {
     "title": "Seu Café",
-    "description": "Projeto desenvolvido para estudar ReactJS, React Native, TypeScript e DDD",
+    "description": "Projeto desenvolvido para estudar ReactJS, React Native, TypeScript e DDD.",
     "link": "https://github.com/thalysonalexr/ycoffee-web",
     "source": "https://github.com/thalysonalexr/ycoffee-web",
     "thumbnail": "https://raw.githubusercontent.com/thalysonalexr/portfolio-files/master/dist/images/projects/ycoffee.png",
@@ -110,9 +110,9 @@
   {
     "title": "criarcurriculo.net",
     "description": "Website gerador de Currículos em PDF. Projeto realizado para cliente pela plataforma Workana.",
-    "link": "https://gitlab.com/thalysonrodss/curriculum.io",
-    "source": "https://gitlab.com/thalysonrodss/curriculum.io",
-    "thumbnail": "https://raw.githubusercontent.com/thalysonalexr/portfolio-files/master/dist/images/projects/criarcurriculo.png",
+    "link": "https://gitlab.com/thalysonalexr/curriculum.io",
+    "source": "https://gitlab.com/thalysonalexr/curriculum.io",
+    "thumbnail": "https://raw.githubusercontent.com/thalysonalexr/portfolio-files/master/dist/images/projects/criarcurriculo.gif",
     "specs": [
       "Utiliza Bootstrap",
       "Consome API PHP geradora de PDF",
@@ -152,8 +152,8 @@
   {
     "title": "Stikers",
     "description": "Website para troca de Figurinhas entre amigos. Projeto realizado para cliente pela plataforma Workana.",
-    "link": "https://gitlab.com/thalysonrodss/swap-cards",
-    "source": "https://gitlab.com/thalysonrodss/swap-cards",
+    "link": "https://gitlab.com/thalysonalexr/swap-cards",
+    "source": "https://gitlab.com/thalysonalexr/swap-cards",
     "thumbnail": "https://raw.githubusercontent.com/thalysonalexr/portfolio-files/master/dist/images/projects/stikers.png",
     "specs": [
       "Utiliza Bootstrap",
