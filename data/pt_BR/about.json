@@ -1,7 +1,9 @@
 {
-  "name": "Thalyson Alexandre Rodrigues",
-  "nickname": "Talizu",
-  "figure": "https://raw.githubusercontent.com/thalysonalexr/portfolio-files/master/dist/images/about/profile3.jpg",
-  "description": "Desenvolvedor Web e apaixonado por Arquitetura de Software",
-  "about_me": "Thalyson Rodrigues ama desenvolver software, desde sua concepção, design e coding. Ele odeia falar de si mesmo na terceira pessoa. Bacharel em Sistemas de Informação (2019/2) pela UFMT/CUR. Thalyson antes do código adora os conceitos de Design Patterns, POO e Arquitetura de Software. Ele desenvolveu projetos em seu Bacharel de SI e trabalhou como freelancer pela plataforma Workana criando aplicações e auxiliando na manutenção de novas features. Thalyson anseia pelo seu primeiro \"job\" fixo como Desenvolvedor Web Jr, enquanto estuda o ecossistema JS e design patterns."
+  "user": {
+    "name": "Thalyson Alexandre Rodrigues",
+    "nickname": "Talizu",
+    "figure": "https://raw.githubusercontent.com/thalysonalexr/portfolio-files/master/dist/images/about/profile3.jpg",
+    "description": "Desenvolvedor Web e apaixonado por Arquitetura de Software",
+    "about_me": "Thalyson Rodrigues ama desenvolver software, desde sua concepção, design e coding. Ele odeia falar de si mesmo na terceira pessoa. Bacharel em Sistemas de Informação (2019/2) pela UFMT/CUR. Thalyson antes do código adora os conceitos de Design Patterns, POO e Arquitetura de Software. Ele desenvolveu projetos em seu Bacharel de SI e trabalhou como freelancer pela plataforma Workana criando aplicações e auxiliando na manutenção de novas features. Thalyson anseia pelo seu primeiro \"job\" fixo como Desenvolvedor Web Jr, enquanto estuda o ecossistema JS e design patterns."
+  }
 }

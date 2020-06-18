@@ -1,42 +1,44 @@
 {
-  "name": "Thalyson A. Rodrigues",
-  "title": "Do you have a project?",
-  "apresentation": "I work with the Web for 2 years, and program software for 4 years. I started with the Pascal language and improved myself by learning Java, Web Stack (HTML5, CSS3, JS) and PHP, currently studying the JS ecosystem (ReactJS, VueJS, React Native, TypeScript, NodeJS). If you have a project in mind feel free to contact me. I prioritize, first of all, experience and software that adds value!",
-  "links": [
-    {
-      "type": "Github",
-      "link": "https://github.com/thalysonalexr/",
-      "class": "fab fa-github-square"
-    },
-    {
-      "type": "Facebook",
-      "link": "https://www.facebook.com/thalysonalexr",
-      "class": "fab fa-facebook-square"
-    },
-    {
-      "type": "Instagram",
-      "link": "https://www.instagram.com/thalysonalexr/",
-      "class": "fab fa-instagram"
-    },
-    {
-      "type": "Twitter",
-      "link": "https://twitter.com/thalysonalexr",
-      "class": "fab fa-twitter-square"
-    },
-    {
-      "type": "Linkedin",
-      "link": "https://www.linkedin.com/in/thalysonrodrigues/",
-      "class": "fab fa-linkedin"
-    },
-    {
-      "type": "E-mail",
-      "link": "mailto:tha.motog@gmail.com",
-      "class": "far fa-envelope"
-    },
-    {
-      "type": "Whatsapp",
-      "link": "http://api.whatsapp.com/send?1=pt_BR&phone=556798553364&text=Ol%C3%A1%20Thalyson!%20Tenho%20um%20projeto%20em%20mente!",
-      "class": "fab fa-whatsapp"
-    }
-  ]
+  "contact": {
+    "name": "Thalyson A. Rodrigues",
+    "title": "Do you have a project?",
+    "apresentation": "I work with the Web for 2 years, and program software for 4 years. I started with the Pascal language and improved myself by learning Java, Web Stack (HTML5, CSS3, JS) and PHP, currently studying the JS ecosystem (ReactJS, VueJS, React Native, TypeScript, NodeJS). If you have a project in mind feel free to contact me. I prioritize, first of all, experience and software that adds value!",
+    "links": [
+      {
+        "type": "Github",
+        "link": "https://github.com/thalysonalexr/",
+        "class": "fab fa-github-square"
+      },
+      {
+        "type": "Facebook",
+        "link": "https://www.facebook.com/thalysonalexr",
+        "class": "fab fa-facebook-square"
+      },
+      {
+        "type": "Instagram",
+        "link": "https://www.instagram.com/thalysonalexr/",
+        "class": "fab fa-instagram"
+      },
+      {
+        "type": "Twitter",
+        "link": "https://twitter.com/thalysonalexr",
+        "class": "fab fa-twitter-square"
+      },
+      {
+        "type": "Linkedin",
+        "link": "https://www.linkedin.com/in/thalysonrodrigues/",
+        "class": "fab fa-linkedin"
+      },
+      {
+        "type": "E-mail",
+        "link": "mailto:tha.motog@gmail.com",
+        "class": "far fa-envelope"
+      },
+      {
+        "type": "Whatsapp",
+        "link": "http://api.whatsapp.com/send?1=pt_BR&phone=556798553364&text=Ol%C3%A1%20Thalyson!%20Tenho%20um%20projeto%20em%20mente!",
+        "class": "fab fa-whatsapp"
+      }
+    ]
+  }
 }

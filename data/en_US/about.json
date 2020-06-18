@@ -1,7 +1,9 @@
 {
-  "name": "Thalyson Alexandre Rodrigues",
-  "nickname": "Talizu",
-  "figure": "https://raw.githubusercontent.com/thalysonalexr/portfolio-files/master/dist/images/about/profile3.jpg",
-  "description": "Web Developer and passionate about Software Architecture",
-  "about_me": "Thalyson Rodrigues loves to develop software, from conception, design and coding. He hates talking about himself in the third person. Bachelor of Information Systems (2019/2) from UFMT/CUR. Thalyson before the code loves the concepts of Design Patterns, OOP and Software Architecture. He developed projects in his Bachelor of IS and worked as a freelancer for the Workana platform creating applications and assisting in the maintenance of new features. Thalyson looks forward to his first fixed job as a Web Developer Jr, while studying the JS ecosystem and design patterns."
+  "user": {
+    "name": "Thalyson Alexandre Rodrigues",
+    "nickname": "Talizu",
+    "figure": "https://raw.githubusercontent.com/thalysonalexr/portfolio-files/master/dist/images/about/profile3.jpg",
+    "description": "Web Developer and passionate about Software Architecture",
+    "about_me": "Thalyson Rodrigues loves to develop software, from conception, design and coding. He hates talking about himself in the third person. Bachelor of Information Systems (2019/2) from UFMT/CUR. Thalyson before the code loves the concepts of Design Patterns, OOP and Software Architecture. He developed projects in his Bachelor of IS and worked as a freelancer for the Workana platform creating applications and assisting in the maintenance of new features. Thalyson looks forward to his first fixed job as a Web Developer Jr, while studying the JS ecosystem and design patterns."
+  }
 }
