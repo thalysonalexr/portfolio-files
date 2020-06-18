@@ -163,10 +163,9 @@
       "source": "https://github.com/thalysonalexr/star-rate-component",
       "thumbnail": "https://raw.githubusercontent.com/thalysonalexr/portfolio-files/master/dist/images/projects/star-rate-component.gif",
       "topics": [
-        "SPA com Vue.js",
-        "Utiliza a biblioteca JQuery",
         "Componente para o framework Vue.js",
-        "Pacote de componente"
+        "Build com Webpack",
+        "Instalação via NPM"
       ]
     },
     {
